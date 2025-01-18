@@ -88,12 +88,3 @@ Mobile testing involves identifying a variety of vulnerabilities, including:
 - **Dynamic Analysis**: Test app functionality using proxies and emulators.
 
 ---
-
-## Conclusion
-
-Congratulations! You’re now on your way to mobile testing and can leverage your existing web skills to explore this new avenue. By understanding the risks associated with mobile applications, you can significantly contribute to managing and securing the ever-growing security footprint.
-
-For any questions or further assistance, feel free to reach out to the Synack Red Team community.
-
----
-
