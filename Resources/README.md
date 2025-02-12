@@ -6,3 +6,4 @@ Some useful resources for bug bounty hunting and pentesting.
 - [Tunneling with Chisel](https://0xdf.gitlab.io/cheatsheets/chisel)
 - [Web Shells](https://github.com/Turbul3nce/web.shells)
 - [Custom Templates](https://github.com/Turbul3nce/nuclei.templates)
+- [Container Breakouts](https://github.com/0xn3va/cheat-sheets/tree/main/Container/Escaping)
